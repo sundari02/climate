@@ -1,0 +1,111 @@
+
+h1 {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 2.5em;
+}
+
+body {
+
+  background-image: url('https://cdn.wallpapersafari.com/91/60/M9k5Ka.png');
+  background-size: cover;
+
+  }
+
+header {
+ background-color: #e3eefe;
+ padding: 20px 0;
+}
+
+h2 {
+    text-align: ;
+
+}
+.question {
+   background-color: #e6e6e6
+;
+   padding: 10px;
+   border: 1px black solid;
+}
+.question1 {
+   background-color:  #e6e6e6;
+   padding: 10px;
+   border: 1px black solid;
+}
+
+.form {
+ display: grid;
+ grid-gap: 5px;
+}
+
+.submit {
+  text-align: center;
+}
+
+button {
+   background-color: transparent;
+   border: 1px grey solid;
+   border-radius: 4px;
+   padding: 5px;
+   font-size: 15px;
+}
+
+button:hover {
+ background-color: lightgrey;
+ cursor: pointer;
+}
+
+input[type="text"] {
+   width: 15%
+}
+.question1 input[type="text"] {
+ width: 50%;
+}
+
+body {
+ margin: 0;
+ font-family: Trebuchet MS, Helvetica, Arial, sans-serif;
+}
+
+.link {
+ padding: 10px ;
+
+}
+
+
+.link:hover {
+ background-color: darkgray;
+}
+
+a {
+  display: block;
+ text-decoration: none;
+ color: black;
+ text-align: center;
+ background-color: lightgray;
+
+}
+
+nav {
+width: 20%;
+ padding: 0px;
+ margin: 0 2.5%;
+ position: fixed;
+ display: grid;
+ grid-gap: 5px;
+
+}
+
+.error {
+ text-align: center;
+ color: red;
+ font-size: 15px;
+}
+
+table {
+ text-align: center;
+}
+
+i {
+ padding: 0 10px;
+}
